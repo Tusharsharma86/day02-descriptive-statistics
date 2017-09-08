@@ -26,7 +26,7 @@
 @[gslides](1pcGZLJqhR-jKO1pecWOEQUfmG9iQ2sW2eNGUkaNgE0s)
 
 ## Notebooks
-[Code Demonstration]()
+[Code Demonstration](https://github.com/commit-live-students/day02_descriptive_statistics/blob/master/notebooks/day02_demo.ipynb)
 
 ## Post Reads
 1. [A more mathematical treatment of probability theory for adventurous students](http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf)
