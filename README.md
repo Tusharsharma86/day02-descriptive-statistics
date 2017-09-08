@@ -28,9 +28,6 @@
 ## Notebooks
 [Code Demonstration]()
 
-## Assignments
-
-
 ## Post Reads
 1. [A more mathematical treatment of probability theory for adventurous students](http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf)
 2. https://medium.com/@chelseaparlett/the-central-limit-theorem-clear-statistics-278b80fd6f9f
