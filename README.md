@@ -25,6 +25,7 @@
 ## Slides
 @[gslides](1pcGZLJqhR-jKO1pecWOEQUfmG9iQ2sW2eNGUkaNgE0s)
 
+
 ## Notebooks
 [Code Demonstration](https://github.com/commit-live-students/day02_descriptive_statistics/blob/master/notebooks/day02_demo.ipynb)
 
